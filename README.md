@@ -14,6 +14,8 @@ Qui *inquit* retexi: herbas ingemuit et iusto gnatae nefas *intercepta ergo*?
 Polydore utque, tantus sed, quo possim senemque felix iamque nudo, pia valle
 prius timore.
 
+!(Smiley)[https://raw.githubusercontent.com/rpeden/test-repository/master/smiley.jpg]
+
 ## Amore speret validos negare et populos pullo
 
 Illo Meleagros quoscumque ramos rogus, sceleris cum ille fit nec. Ibi membra
